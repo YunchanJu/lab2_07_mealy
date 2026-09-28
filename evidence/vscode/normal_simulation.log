@@ -1,0 +1,4 @@
+VCD info: dumpfile wave.vcd opened for output.
+LAB2_PASS mealy_toggle checks=11
+END_NS=67
+C:\Users\samsung\lab2_07_mealy\sim\tb_mealy_toggle.sv:21: $finish called at 67000 (1ps)
